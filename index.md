@@ -1,25 +1,25 @@
----
-title: Online Hosted Instructions
+﻿---
+title: الإنترنت
 permalink: index.html
 layout: home
 ---
 
-# Content Directory
+# دليل المحتوى
 
-Hyperlinks to each of the lab exercises and demos are listed below.
+توجد أدناه روابط سريعة لكل من التمارين المعملية والعروض التوضيحية.
 
-## Labs
+## الأنشطة المعملية
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-| Module | Lab |
+| الوحدة | النشاط المعملي |
 | --- | --- | 
 {% for activity in labs  %}| {{ activity.lab.module }} | [{{ activity.lab.title }}{% if activity.lab.type %} - {{ activity.lab.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
-## Demos
+## العروض التوضيحية
 
 {% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
-| Module | Demo |
+| الوحدة | عرض توضيحي |
 | --- | --- | 
 {% for activity in demos  %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}

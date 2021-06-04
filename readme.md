@@ -1,35 +1,35 @@
-# INF99X: Sample Course
+﻿# INF99X: دورة تدريبية نموذجية
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+- **[تنزيل أحدث دليل للطالب ومحتوى جميع الملفات](../../releases/latest)**
+- **هل أنت MCT؟** - اطلع على [دليل مستخدم GitHub الخاص بـ MCTs](https://microsoftlearning.github.io/MCT-User-Guide/) لدينا
+- **هل تحتاج إلى إنشاء إرشادات الأنشطة المعملية يدويًا؟** -  تتوفر الإرشادات في مستودع [MicrosoftLearning / Docker-Build](https://github.com/MicrosoftLearning/Docker-Build)
 
-## What are we doing?
+## ماذا نفعل؟
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+- لدعم هذه الدورة التدريبية، سنحتاج إلى إجراء تحديثات متكررة لمحتوى الدورة التدريبية لإبقائه مواكبًا لخدمات Azure المستخدمة في الدورة التدريبية.  نحن ننشر إرشادات الأنشطة المعملية وملفات هذه الأنشطة على GitHub للسماح بالمساهمات المفتوحة بين مؤلفي الدورة التدريبية وMCT للحفاظ على المحتوى محدثًا بالتغييرات في منصة Azure.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- نأمل أن يجلب هذا إحساسًا بالتعاون مع الأنشطة المعملية كما لم يحدث من قبل - عندما يتغير Azure وتجد هذا التغير أولاً أثناء جلسة التدريب، أسرع وقم بتحسين مصدر النشاط مباشرةً.  ساعد زملائك من مدربي MCT.
 
-## How should I use these files relative to the released MOC files?
+## كيف يمكنني استخدام هذه الملفات بالنسبة إلى ملفات MOC التي تم إصدارها؟
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+- سيظل كتيب المعلم وملفات PowerPoint مصدرك الأساسي لتدريس محتوى الدورة التدريبية.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+- صممت هذه الملفات على GitHub لاستخدامها إلى جانب كتيب الطالب، ولكنها موجودة في GitHub كمستودع مركزي بحيث يمكن لمدربي MCT ومؤلفي الدورة التدريبية الحصول على مصدر مشترك لأحدث ملفات المعمل.
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- من المستحسن أن يقوم المدربون، لكل عملية تسليم، بالتحقق من GitHub بحثًا عن أي تغييرات ربما تم إجراؤها لدعم أحدث خدمات Azure والحصول على أحدث الملفات لتسليمها.
 
-## What about changes to the student handbook?
+## ماذا عن التغييرات في كتيب الطالب؟
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+- سنراجع كتيب الطالب على أساس ربع سنوي ونحدّثه من خلال قنوات إصدار MOC العادية حسب الحاجة.
 
-## How do I contribute?
+## كيف أساهم؟
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- يمكن لأي MCT إرسال طلب سحب كود أو محتوى في مستودع GitHub، وسيقوم Microsoft ومؤلف الدورة التدريبية بالفرز وتضمين تغييرات المحتوى ورمز النشاط المعملي حسب الحاجة.
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- يمكنك إرسال الأخطاء والتغييرات والتحسينات والأفكار.  هل تبحث عن ميزة Azure جديدة قبل أن تكون لدينا؟  تقديم عرض جديد!
 
-## Notes
+## ملاحظات
 
-### Classroom Materials
+### مواد الفصل
 
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+يوصى بشدة أن يقوم MCTs والشركاء بالوصول إلى هذه المواد، وبالتالي توفيرها بشكل منفصل للطلاب.  إن توجيه الطلاب مباشرةً إلى GitHub للوصول إلى خطوات النشاط المعملي كجزء من عملهم في جلسة تدريبية سيتطلب منهم الوصول إلى واجهة مستخدم أخرى كجزء من الدورة التدريبية، مما يساهم في تقديم تجربة مربكة للطالب. إن شرح سبب تلقي الطالب تعليمات للأنشطة المعملية منفصلة يمكن أن يبرز طبيعة واجهة ونظام أساسي قائم على السحابة متغير دائمًا. يقتصر دعم Microsoft Learning للوصول إلى الملفات على GitHub ودعم التنقل في موقع GitHub على MCTs الذين يدرسون هذه الدورة التدريبية فقط.
