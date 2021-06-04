@@ -1,4 +1,4 @@
-﻿---
+---
 title: الإنترنت
 permalink: index.html
 layout: home
