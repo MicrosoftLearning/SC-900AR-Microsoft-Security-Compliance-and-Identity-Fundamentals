@@ -1,8 +1,30 @@
----
-lab:
-    title: 'استكشاف Microsoft Cloud App Security'
-    module: 'الوحدة 3، الدرس 4: وصف قدرات حلول الأمان في Microsoft: وصف الحماية من التهديدات باستخدام Microsoft 365 Defender'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>استكشاف Microsoft Cloud App Security</div></td>
+  <td><div>الوحدة 3، الدرس 4: وصف قدرات حلول الأمان في Microsoft: وصف الحماية من التهديدات باستخدام Microsoft 365 Defender</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 
 # النشاط المعملي: استكشاف Microsoft Cloud App Security
