@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'استكشاف Azure Sentinel'
     module: 'الوحدة 3، الدرس 3: وصف قدرات حلول الأمان في Microsoft: وصف قدرات الأمان في Azure Sentinel'
