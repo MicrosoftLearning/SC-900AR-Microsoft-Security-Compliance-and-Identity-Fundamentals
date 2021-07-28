@@ -1,8 +1,30 @@
----
-Demo:
-    title: 'إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD'
-    module: 'الوحدة 2، الدرس 2: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: وصف طرق المصادقة المختلفة في Azure AD'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>Demo</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD</div></td>
+  <td><div>الوحدة 2، الدرس 2: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: وصف طرق المصادقة المختلفة في Azure AD</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 # العرض التوضيحي: إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD (SSPR)
 
