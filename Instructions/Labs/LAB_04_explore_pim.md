@@ -1,8 +1,30 @@
----
-lab:
-    title: 'استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة.'
-    module: 'الوحدة 2، الدرس 4: وصف قدرات حماية الهويات وإدارتها في Azure AD: وصف Azure Identity Protection.'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة.</div></td>
+  <td><div>الوحدة 2، الدرس 4: وصف قدرات حماية الهويات وإدارتها في Azure AD: وصف Azure Identity Protection.</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 
 # النشاط المعملي: استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة.
