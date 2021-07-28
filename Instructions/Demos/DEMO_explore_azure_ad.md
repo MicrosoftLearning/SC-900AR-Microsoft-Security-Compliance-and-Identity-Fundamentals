@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'إعدادات مستخدم Azure Active Directory'
     module: 'الوحدة 2، الدرس 1: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: استكشاف الخدمات وأنواع الهوية في Azure AD'

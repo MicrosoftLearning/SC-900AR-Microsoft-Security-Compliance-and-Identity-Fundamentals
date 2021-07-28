@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'الوصول المشروط في Azure Active Directory'
     module: 'الوحدة 2، الدرس 3: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: استكشاف قدرات إدارة الوصول في Azure AD'

@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Microsoft Intune'
     module: 'الوحدة 3، الدرس 6: وصف قدرات حلول الأمان في Microsoft: وصف أمان نقطة النهاية باستخدام Microsoft Intune'

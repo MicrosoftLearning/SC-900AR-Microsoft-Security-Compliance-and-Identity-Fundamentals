@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'نهج Azure'
     module: 'الوحدة 4، الدرس 5: وصف قدرات حلول التوافق في Microsoft: وصف نهج Azure'

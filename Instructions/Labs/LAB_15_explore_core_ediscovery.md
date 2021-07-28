@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'استكشاف سير عمل eDiscovery الأساسي'
     module: 'الوحدة 4، الدرس 4: وصف قدرات حلول التوافق في Microsoft: وصف قدرات eDiscovery والتدقيق في Microsoft 365'
