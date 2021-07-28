@@ -1,8 +1,30 @@
----
-Demo:
-    title: 'Service Trust Portal'
-    module: 'الوحدة 1، الدرس 2: وصف مبادئ التوافق والأمان في Microsoft: استكشاف Service Trust Portal'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>Demo</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>Service Trust Portal</div></td>
+  <td><div>الوحدة 1، الدرس 2: وصف مبادئ التوافق والأمان في Microsoft: استكشاف Service Trust Portal</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 # العرض التوضيحي: Service Trust Portal
 
