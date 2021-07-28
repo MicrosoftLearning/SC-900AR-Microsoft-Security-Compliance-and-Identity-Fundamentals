@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'استكشاف Service Trust Portal'
     module: 'الوحدة 4، الدرس 1: وصف قدرات حلول التوافق في Microsoft: وصف قدرات إدارة التوافق في Microsoft'
