@@ -1,8 +1,30 @@
----
-lab:
-    title: 'استكشاف مدخل Microsoft 365 Defender'
-    module: 'الوحدة 3، الدرس 5: وصف قدرات حلول الأمان في Microsoft: وصف قدرات إدارة الأمان في Microsoft 365'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>استكشاف مدخل Microsoft 365 Defender</div></td>
+  <td><div>الوحدة 3، الدرس 5: وصف قدرات حلول الأمان في Microsoft: وصف قدرات إدارة الأمان في Microsoft 365</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 
 # النشاط المعملي: استكشاف مدخل Microsoft 365 Defender
