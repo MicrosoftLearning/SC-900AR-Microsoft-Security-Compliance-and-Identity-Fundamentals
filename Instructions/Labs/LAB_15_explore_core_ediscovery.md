@@ -1,8 +1,31 @@
----
-lab:
-    title: 'استكشاف سير عمل eDiscovery الأساسي'
-    module: 'الوحدة 4، الدرس 4: وصف قدرات حلول التوافق في Microsoft: وصف قدرات eDiscovery والتدقيق في Microsoft 365'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>استكشاف سير عمل eDiscovery الأساسي</div></td>
+  <td><div>الوحدة 4، الدرس 4: وصف قدرات حلول التوافق في Microsoft: وصف قدرات eDiscovery والتدقيق في Microsoft 365</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
+
 
 
 # النشاط المعملي: استكشاف سير عمل eDiscovery الأساسي
