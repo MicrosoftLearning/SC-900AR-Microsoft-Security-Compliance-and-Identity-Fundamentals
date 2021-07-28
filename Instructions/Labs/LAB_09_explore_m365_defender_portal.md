@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'استكشاف مدخل Microsoft 365 Defender'
     module: 'الوحدة 3، الدرس 5: وصف قدرات حلول الأمان في Microsoft: وصف قدرات إدارة الأمان في Microsoft 365'
