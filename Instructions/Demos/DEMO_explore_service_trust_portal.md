@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'مدخل Service Trust Portal'
     module: 'الوحدة 1، الدرس 2: وصف مبادئ التوافق والأمان في Microsoft: استكشاف Service Trust Portal'
