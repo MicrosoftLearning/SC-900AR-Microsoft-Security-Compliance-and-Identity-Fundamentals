@@ -1,8 +1,30 @@
----
-lab:
-    title: 'استكشاف Azure Active Directory'
-    module: 'الوحدة 2، الدرس 1: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: استكشاف الخدمات وأنواع الهوية في Azure AD'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>استكشاف Azure Active Directory</div></td>
+  <td><div>الوحدة 2، الدرس 1: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: استكشاف الخدمات وأنواع الهوية في Azure AD</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 # النشاط المعملي: استكشاف Azure Active Directory
 
