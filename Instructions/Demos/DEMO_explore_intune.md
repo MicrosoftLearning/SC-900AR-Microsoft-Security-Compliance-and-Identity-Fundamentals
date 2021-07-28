@@ -1,8 +1,30 @@
----
-Demo:
-    title: 'Microsoft Intune'
-    module: 'الوحدة 3، الدرس 6: وصف قدرات حلول الأمان في Microsoft: وصف أمان نقطة النهاية باستخدام Microsoft Intune'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>Demo</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>Microsoft Intune</div></td>
+  <td><div>الوحدة 3، الدرس 6: وصف قدرات حلول الأمان في Microsoft: وصف أمان نقطة النهاية باستخدام Microsoft Intune</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 
 # العرض التوضيحي: Microsoft Intune
