@@ -1,8 +1,30 @@
----
-Demo:
-    title: 'استكشاف مركز التوافق ومدير التوافق في Microsoft 365'
-    module: 'الوحدة 4، الدرس 1: وصف قدرات حلول التوافق في Microsoft: وصف قدرات إدارة التوافق في Microsoft'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>Demo</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>استكشاف مركز التوافق ومدير التوافق في Microsoft 365</div></td>
+  <td><div>الوحدة 4، الدرس 1: وصف قدرات حلول التوافق في Microsoft: وصف قدرات إدارة التوافق في Microsoft</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 
 # العرض التوضيحي: استكشاف مركز التوافق ومدير التوافق في Microsoft 365
