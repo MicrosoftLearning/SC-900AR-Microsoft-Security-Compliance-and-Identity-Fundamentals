@@ -1,4 +1,4 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
     <article class="markdown-body entry-content container-lg" itemprop="text"><table>
   <thead>
   <tr>
@@ -67,8 +67,6 @@
 1. من جزء التنقل الأيسر لمركز مسؤولي Microsoft 365، حدد **إظهار الكل**.
 
 1. ضمن مراكز المسؤولين، حدد **التوافق**.  يتم فتح صفحة مستعرض جديدة على صفحة الترحيب الخاصة بمركز التوافق في Microsoft 365.  
-
-1. من لوحة التنقل اليسرى لمركز مسؤولي Microsoft 365، حدد **إظهار الكل**.
 
 1. في لوحة التنقل اليسرى، ضمن الحلول، حدد **التدقيق**.  ملاحظة: يمكن الوصول إلى وظيفة التدقيق أيضًا من خلال صفحة Microsoft 365 Defender الرئيسية (كان يُشار إليه سابقًا بمركز الأمان في Microsoft 365).
 
